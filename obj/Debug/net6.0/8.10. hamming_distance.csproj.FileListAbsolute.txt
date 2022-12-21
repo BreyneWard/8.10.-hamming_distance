@@ -1,0 +1,15 @@
+D:\multimedi\Cscherp\8.10. hamming_distance\bin\Debug\net6.0\8.10. hamming_distance.exe
+D:\multimedi\Cscherp\8.10. hamming_distance\bin\Debug\net6.0\8.10. hamming_distance.deps.json
+D:\multimedi\Cscherp\8.10. hamming_distance\bin\Debug\net6.0\8.10. hamming_distance.runtimeconfig.json
+D:\multimedi\Cscherp\8.10. hamming_distance\bin\Debug\net6.0\8.10. hamming_distance.dll
+D:\multimedi\Cscherp\8.10. hamming_distance\bin\Debug\net6.0\8.10. hamming_distance.pdb
+D:\multimedi\Cscherp\8.10. hamming_distance\obj\Debug\net6.0\8.10. hamming_distance.csproj.AssemblyReference.cache
+D:\multimedi\Cscherp\8.10. hamming_distance\obj\Debug\net6.0\8.10. hamming_distance.GeneratedMSBuildEditorConfig.editorconfig
+D:\multimedi\Cscherp\8.10. hamming_distance\obj\Debug\net6.0\8.10. hamming_distance.AssemblyInfoInputs.cache
+D:\multimedi\Cscherp\8.10. hamming_distance\obj\Debug\net6.0\8.10. hamming_distance.AssemblyInfo.cs
+D:\multimedi\Cscherp\8.10. hamming_distance\obj\Debug\net6.0\8.10. hamming_distance.csproj.CoreCompileInputs.cache
+D:\multimedi\Cscherp\8.10. hamming_distance\obj\Debug\net6.0\8.10. hamming_distance.dll
+D:\multimedi\Cscherp\8.10. hamming_distance\obj\Debug\net6.0\refint\8.10. hamming_distance.dll
+D:\multimedi\Cscherp\8.10. hamming_distance\obj\Debug\net6.0\8.10. hamming_distance.pdb
+D:\multimedi\Cscherp\8.10. hamming_distance\obj\Debug\net6.0\8.10. hamming_distance.genruntimeconfig.cache
+D:\multimedi\Cscherp\8.10. hamming_distance\obj\Debug\net6.0\ref\8.10. hamming_distance.dll
